@@ -1,1 +1,1 @@
-Uma das primeiras aplicações simples criada para auxiliar no estudo de Csharp e .NET framework, calculadora padrão estilo windows
+Uma das primeiras aplicações simples criada para auxiliar no estudo de C# e .NET framework, calculadora padrão estilo windows com winforms!
